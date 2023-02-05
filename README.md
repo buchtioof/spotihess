@@ -2,6 +2,7 @@
 > The most goofiest bangers online
 
 Le code est catastrophique et marche à 25% (la moitié de chaque élément est nickel l'autre est cassée)
+Placer les fichiers dans le dossier htdocs (xampp) et coller le code SQL en dessous dans une DB appelée "spotihess" (important)
 
 Chacklist:
 
