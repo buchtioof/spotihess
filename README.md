@@ -9,7 +9,7 @@ Chacklist:
 - [x] Search function (ready but unused bc useless for project)
 - [ ] Cookie save lists
 - [x] Make liked page
-- [ ] Insert sql data
+- [x] Insert sql data
 - [ ] Add player with iframe Youtube
 - [ ] Style index
 - [ ] Style liked
