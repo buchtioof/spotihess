@@ -13,6 +13,7 @@ Chacklist:
 - [ ] Style index
 - [ ] Style liked
 - [ ] Update database in readme (final task)
+- [ ] Clean git for copy-paste in xampp (final task)
 
 last sql database export
 
