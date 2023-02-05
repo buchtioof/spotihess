@@ -3,6 +3,7 @@
 
 Chacklist:
 
+- [x] Make readme
 - [ ] Make index page
 - [ ] Favourite button
 - [ ] Search function
