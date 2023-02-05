@@ -1,6 +1,8 @@
 # spotihess
 > The most goofiest bangers online
 
+Le code est catastrophique et marche à 25% (la moitié de chaque élément est nickel l'autre est cassée)
+
 Chacklist:
 
 - [x] Make readme
