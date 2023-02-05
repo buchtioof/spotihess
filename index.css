@@ -1,0 +1,58 @@
+.navbar {
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 3%;
+    border-radius: 1000px;
+}
+
+.btn {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.green {
+    background-color: #199319;
+}
+
+.red {
+    background-color: red;
+}
+
+table,
+th {
+    border-style: solid;
+    border-width: 1;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.songbox {
+    border-radius: 10px;
+    background-color: #151515;
+    width: 200px;
+    height: 250px;
+    color: white;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
