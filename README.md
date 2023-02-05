@@ -13,11 +13,12 @@ Chacklist:
 - [ ] Cookie save lists
 - [x] Make liked page
 - [x] Insert sql data
-- [ ] Add player with iframe Youtube
+- [x] Add player with iframe Youtube
+- [ ] Make all songs playable with iframe
 - [ ] Style index
 - [ ] Style liked
-- [ ] Clean database with all songs and data
-- [ ] Update database in readme (final task)
+- [x] Clean database with all songs and data
+- [x] Update database in readme (final task)
 - [ ] Clean git for copy-paste in xampp (final task)
 
 last sql database export
