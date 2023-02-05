@@ -5,8 +5,8 @@ Chacklist:
 
 - [x] Make readme
 - [ ] Make index page
-- [ ] Favourite button
-- [ ] Search function
+- [x] Favourite button
+- [?] Search function (unused bc useless for project)
 - [ ] Cookie save lists
 - [ ] Make liked page
 - [ ] Insert sql data
